@@ -1,0 +1,11 @@
+.usuario{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tarjeta {
+    border-style: solid;
+    padding: 8px;
+    border-radius: 10px;
+    border-color:darkcyan;
+}
